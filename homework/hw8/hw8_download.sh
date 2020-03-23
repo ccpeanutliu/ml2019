@@ -1,0 +1,1 @@
+wget -O weight_strong.h5 https://www.dropbox.com/s/vms7qgy7lp9mwyz/weight_strong.h5?dl=1

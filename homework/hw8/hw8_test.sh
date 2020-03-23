@@ -1,0 +1,1 @@
+python hw8_strong.py $1 $2

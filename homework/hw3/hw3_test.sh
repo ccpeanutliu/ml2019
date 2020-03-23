@@ -1,0 +1,1 @@
+python ./hw3_strong.py $1 $2
